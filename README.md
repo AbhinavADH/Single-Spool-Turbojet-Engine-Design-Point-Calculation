@@ -1,0 +1,1 @@
+# Single-Spool-Turbojet-Engine-Design-Point-Calculation
